@@ -25,7 +25,7 @@ O objetivo do projeto é demonstrar como automatizar tarefas repetitivas, como o
 ## Como Executar
 1. Abra o terminal e execute o script Python:
    ```bash
-   python script.py
+   python codigo.py
    ```
 2. O script fará o seguinte automaticamente:
    - Abrirá o navegador Firefox.
